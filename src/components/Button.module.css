@@ -1,0 +1,20 @@
+.button {
+	display: block;
+	margin: 0 auto;
+	border: none;
+	background-color: transparent;
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Coiny';
+	border: 1px solid #fff;
+	border-radius: 5px;
+
+	padding: 10px;
+	cursor: pointer;
+	transition: all 0.5s;
+}
+
+button:hover {
+	background-color: #fff;
+	color: #000;
+}
